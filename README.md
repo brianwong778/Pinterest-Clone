@@ -2,7 +2,7 @@
 
 # Pinterest Clone
 
-![Pinterest Clone Demo](https://github.com/brianwong778/Pinterest-Clone/assets/113395187/fa62ff0b-bf3e-4c0d-a581-9cc04f941a0b)
+![Pinterest Clone Demo](https://github.com/brianwong778/Pinterest-Clone/assets/113395187/619d7672-43d5-4218-8332-0d782050ab2a)
 
 </div>
 
